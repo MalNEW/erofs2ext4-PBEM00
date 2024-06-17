@@ -1,6 +1,6 @@
 # erofs2ext4-PBEM00
 
-[中文版](https://kkgithub.com/MalNEW/erofs2ext4-PBEM00/blob/main/README_CN.md)
+[中文版](https://github.com/MalNEW/erofs2ext4-PBEM00/blob/main/README_CN.md)
 
 ## Dependencys:
 [simg2img](https://github.com/anestisb/android-simg2img)\
